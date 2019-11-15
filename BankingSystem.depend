@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1573603509 source:c:\users\catur rahmat\documents\dev c++ project\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"Menu.h"
+	"Position.h"
+	"AdminView.h"
+
+1573598410 c:\users\catur rahmat\documents\dev c++ project\menu.h
+
+1573408284 c:\users\catur rahmat\documents\dev c++ project\position.h
+
+1573606626 c:\users\catur rahmat\documents\dev c++ project\adminview.h
+	"AdminModel.h"
+
+1573606696 c:\users\catur rahmat\documents\dev c++ project\adminmodel.h
+	<string>
+
+1573606608 source:c:\users\catur rahmat\documents\dev c++ project\menu.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<cstdlib>
+	"Menu.h"
+	"Main.h"
+	"Position.h"
+
+1573601910 c:\users\catur rahmat\documents\dev c++ project\main.h
+
+1573648870 source:c:\users\catur rahmat\documents\tugascpp\wronginput.cpp
+	<iostream>
+	<windows.h>
+
